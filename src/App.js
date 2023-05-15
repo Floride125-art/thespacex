@@ -215,7 +215,7 @@ class App extends Component {
             </Row>
             <div>
               <h5 className="App-Developers-name">
-                Doneby: Floride Tuyisenge
+                Developed by: Floride Tuyisenge
               </h5>
             </div>
           </Container>
